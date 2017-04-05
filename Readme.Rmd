@@ -11,6 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Assignment 11
 
 This is an R Markdown document for Assignment 11 of Doing Data Science course. 
+https://github.com/nshnuchkina/Assignment11
 
 Install packages if you don't have them already installed
 ```{r install packages}
