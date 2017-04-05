@@ -2,7 +2,7 @@
 title: "Readme2"
 author: "Nadya Green"
 date: "4/5/2017"
-output: html_document
+output: github_document
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
